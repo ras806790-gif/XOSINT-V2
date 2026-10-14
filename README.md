@@ -111,7 +111,7 @@ https://t.me/roxinih
 
 ## Contributing
 
-Contributions and bug reports are welcome. Please keep changes respectful of privacy and platform terms.
+[Contributions and bug reports are welcome. Please keep changes respectful of privacy and platform terms.](https://github.com/sherlock-project/sherlock/graphs/contributors)
 
 ## License
 
