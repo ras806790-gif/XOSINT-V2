@@ -42,7 +42,7 @@ Kali Linux is **not required**.
 ```bash
 pkg update
 pkg install git python -y
-git clone https://github.com/YOUR-USERNAME/xosint-v2.git
+git clone https://github.com/ras806790-gif/XOSINT-V2.git
 cd xosint-v2
 chmod +x xosint.sh
 ```
